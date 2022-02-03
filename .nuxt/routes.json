@@ -1,0 +1,32 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/mac/Desktop/bolster-vue-Cat-app/pages/cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/Users/mac/Desktop/bolster-vue-Cat-app/pages/checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Users/mac/Desktop/bolster-vue-Cat-app/pages/products.vue",
+    "chunkName": "pages/products"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products-details/:id?",
+    "component": "/Users/mac/Desktop/bolster-vue-Cat-app/pages/products-details/_id.vue",
+    "chunkName": "pages/products-details/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Desktop/bolster-vue-Cat-app/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
